@@ -206,8 +206,9 @@ int main(){
         default:
             printf("Invalid choice...\n");
         }
-    } while (choice != );
+    } while (choice != 6);
     return 0;
 }
+
 
 
